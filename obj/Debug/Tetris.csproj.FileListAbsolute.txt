@@ -1,0 +1,16 @@
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+d:\documents\visual studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\bin\Debug\Tetris.application
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.exe.manifest
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.application
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.TetrisForm.resources
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Menu.resources
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Setting.resources
+D:\Documents\Visual Studio 2015\Projects\Tetris\Tetris\obj\Debug\Tetris.Shop.resources
