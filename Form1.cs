@@ -393,8 +393,8 @@ namespace Tetris {
 
         #region 特殊效果代码
         private bool BulletTime() {
-            if (_getBlockIEnable && _myMenu.OwnBulletTime > 0) {//不在Cd
-                _getBlockIEnable = false;
+            if (_bulletTimeEnable && _myMenu.OwnBulletTime > 0) {//不在Cd
+                _bulletTimeEnable = false;
                 _bulletTimeRunning = true;
                 SpeedChangeEvent -= SpeedChange;//暂时注销变速
                 pboxBullet.BorderStyle = BorderStyle.Fixed3D;
